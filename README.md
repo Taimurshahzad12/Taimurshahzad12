@@ -3,7 +3,7 @@
     👀 I’m interested in Machine Leraning 
     🌱 I’m currently Diving deep into Deep learning ;)
     💞️ I’m looking to collaborate on an opportunity in Data Science.
-    📫 You can reach me at 
+    📫 You can reach me at https://www.linkedin.com/in/taimurshahzad/
 
 
 
